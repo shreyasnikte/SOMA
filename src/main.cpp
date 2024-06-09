@@ -14,7 +14,7 @@ PROJECT: Project SOMA
 #define DHTPIN 4      // Digital pin connected to the DHT sensor
 #define MOIST_PIN 36  // Digital pin connected to the Moisture sensor
 #define LED_BuiltIn 2 // Digital pin connected to the on-board LED pin. To be used for troubleshooting.
-#define Code_DEBUG 1  // Normal operation: Code_DEBUG=0, DEBUG operation: Code_DEBUG=1
+#define Code_DEBUG 0  // Normal operation: Code_DEBUG=0, DEBUG operation: Code_DEBUG=1
 
 
 // MOISTURE SENSOR: Define setpoints for moisture sensor. Please calibrate your new sensor before use. They are notoriously different from each other.
