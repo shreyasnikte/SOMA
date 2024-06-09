@@ -17,10 +17,11 @@ void loop() {
   Serial.println("Hello from the board");
   digitalWrite(LED_BuiltIn, 0x0);
   delay(1000);
-  
+
 }
 
 // put function definitions here:
 int myFunction(int x, int y) {
   return x + y;
+  
 }
