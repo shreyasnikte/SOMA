@@ -16,7 +16,7 @@ Following sensors are currently supported:
 - Moisture sensor
 
 ## Local first Architecture 
-![image](https://github.com/user-attachments/assets/327c5658-1e29-45c1-93c4-667035e583cc)
+![image](https://github.com/user-attachments/assets/b541e37e-4eb2-4f68-b14b-2326d1624f35)
 
 
 
