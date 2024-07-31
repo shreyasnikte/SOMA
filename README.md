@@ -15,6 +15,11 @@ Following sensors are currently supported:
 - Tempearature & Humidity sensors (DHT11, DHT22)
 - Moisture sensor
 
+## Local first Architecture 
+![image](https://github.com/user-attachments/assets/a371540d-382d-4aa4-94f3-27b66cee4d4d)
+
+
+The edge gateway config is not part of this repositary.
 
 ### Trivia
 SOMA is an indian mythological god associated with plants & vegetation.
