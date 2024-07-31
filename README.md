@@ -16,7 +16,8 @@ Following sensors are currently supported:
 - Moisture sensor
 
 ## Local first Architecture 
-![image](https://github.com/user-attachments/assets/a371540d-382d-4aa4-94f3-27b66cee4d4d)
+![image](https://github.com/user-attachments/assets/22642c72-f390-45be-a6e0-26b1c4544159)
+
 
 
 The edge gateway config is not part of this repositary.
